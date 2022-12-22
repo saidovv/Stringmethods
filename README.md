@@ -12,3 +12,9 @@ Method and a function are the same, with different terms.A method is a procedure
 
 ![](./image/foot1.jpg)
 ![](./image/foot2.jpg)
+
+or
+
+![](./image/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA.PNG)
+![](./image/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA2.PNG)
+
